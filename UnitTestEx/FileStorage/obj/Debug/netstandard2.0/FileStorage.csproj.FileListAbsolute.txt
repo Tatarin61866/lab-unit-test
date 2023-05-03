@@ -1,0 +1,19 @@
+C:\Users\stud\Desktop\UnitTestExKhaliullin\UnitTestEx\FileStorage\bin\Debug\netstandard2.0\FileStorage.deps.json
+C:\Users\stud\Desktop\UnitTestExKhaliullin\UnitTestEx\FileStorage\bin\Debug\netstandard2.0\FileStorage.dll
+C:\Users\stud\Desktop\UnitTestExKhaliullin\UnitTestEx\FileStorage\bin\Debug\netstandard2.0\FileStorage.pdb
+C:\Users\stud\Desktop\UnitTestExKhaliullin\UnitTestEx\FileStorage\obj\Debug\netstandard2.0\FileStorage.csprojAssemblyReference.cache
+C:\Users\stud\Desktop\UnitTestExKhaliullin\UnitTestEx\FileStorage\obj\Debug\netstandard2.0\FileStorage.AssemblyInfoInputs.cache
+C:\Users\stud\Desktop\UnitTestExKhaliullin\UnitTestEx\FileStorage\obj\Debug\netstandard2.0\FileStorage.AssemblyInfo.cs
+C:\Users\stud\Desktop\UnitTestExKhaliullin\UnitTestEx\FileStorage\obj\Debug\netstandard2.0\FileStorage.csproj.CoreCompileInputs.cache
+C:\Users\stud\Desktop\UnitTestExKhaliullin\UnitTestEx\FileStorage\obj\Debug\netstandard2.0\FileStorage.dll
+C:\Users\stud\Desktop\UnitTestExKhaliullin\UnitTestEx\FileStorage\obj\Debug\netstandard2.0\FileStorage.pdb
+D:\visual studio\unittest\UnitTestExKhaliullin\UnitTestEx\FileStorage\bin\Debug\netstandard2.0\FileStorage.deps.json
+D:\visual studio\unittest\UnitTestExKhaliullin\UnitTestEx\FileStorage\bin\Debug\netstandard2.0\FileStorage.dll
+D:\visual studio\unittest\UnitTestExKhaliullin\UnitTestEx\FileStorage\bin\Debug\netstandard2.0\FileStorage.pdb
+D:\visual studio\unittest\UnitTestExKhaliullin\UnitTestEx\FileStorage\obj\Debug\netstandard2.0\FileStorage.csproj.AssemblyReference.cache
+D:\visual studio\unittest\UnitTestExKhaliullin\UnitTestEx\FileStorage\obj\Debug\netstandard2.0\FileStorage.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio\unittest\UnitTestExKhaliullin\UnitTestEx\FileStorage\obj\Debug\netstandard2.0\FileStorage.AssemblyInfoInputs.cache
+D:\visual studio\unittest\UnitTestExKhaliullin\UnitTestEx\FileStorage\obj\Debug\netstandard2.0\FileStorage.AssemblyInfo.cs
+D:\visual studio\unittest\UnitTestExKhaliullin\UnitTestEx\FileStorage\obj\Debug\netstandard2.0\FileStorage.csproj.CoreCompileInputs.cache
+D:\visual studio\unittest\UnitTestExKhaliullin\UnitTestEx\FileStorage\obj\Debug\netstandard2.0\FileStorage.dll
+D:\visual studio\unittest\UnitTestExKhaliullin\UnitTestEx\FileStorage\obj\Debug\netstandard2.0\FileStorage.pdb

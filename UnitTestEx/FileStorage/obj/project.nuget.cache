@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "z4L1UztZcMypXlQm0Hx34vwoeflAODoULz64vHtL4vU0vdMz0ox9i1esgmawA/PICr0Agj8v/vc+JEly6GRoxQ==",
+  "success": true,
+  "projectFilePath": "D:\\visual studio\\unittest\\UnitTestExKhaliullin\\UnitTestEx\\FileStorage\\FileStorage.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rinat\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\rinat\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
